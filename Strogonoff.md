@@ -1,4 +1,4 @@
-#Strogonoff de Frango
+<h2>Strogonoff de Frango 🐔</h2>
 
 **Ingredientes**
 
