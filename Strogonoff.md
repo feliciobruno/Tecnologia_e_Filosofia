@@ -1,6 +1,6 @@
-<h2>Strogonoff de Frango 🐔</h2>
+<h1>Strogonoff de Frango 🐔</h1>
 
-**Ingredientes**
+<h2>Ingredientes</h2>
 
 - 1kg de peito de afrango sem pele
 - 1 tablete de caldo de galinha
